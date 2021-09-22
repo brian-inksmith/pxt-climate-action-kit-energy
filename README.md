@@ -1,2 +1,2 @@
-# climate-action-kit
-Library to interact with the Climate Action Kit
+# climate-action-kit-energy
+Library to interact with the Climate Action Kit - Energy
